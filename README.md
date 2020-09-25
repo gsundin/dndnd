@@ -6,4 +6,4 @@ My D&amp;D character sheets and other related materials.
 - Octavian the Totally Rad (Rock Gnome / Bard / Level 3)
 - Peter Johnson (Human / Rogue -> Arcane Trickster / Level 9)
 - Lord Randolph Gaylord McBrantley IV (Human / Cleric of Trickery / Level 10)
-- UWU: Name TBD (Robotic Lifeform / Level ???)
+- UWU; Name TBD (SRO / Soldier / Level 1)
